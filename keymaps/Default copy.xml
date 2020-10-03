@@ -1,0 +1,134 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="ActivateCodotaToolWindow">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateJRebelToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="ActivatePToolsToolWindow">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="ActivateRESTClientToolWindow">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift f9" />
+  </action>
+  <action id="ChooseRunConfiguration" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift alt y" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
+  <action id="CodotaJavaScriptSearch" />
+  <action id="CodotaLeanSearchCrossRefAction" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Debug" />
+  <action id="Debugger.EditArrayFilter" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="Editor ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoNextError" />
+  <action id="GotoNextIncompletePropertyAction" />
+  <action id="GuiDesigner.EditComponent" />
+  <action id="GuiDesigner.EditGroup" />
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="ImplementMethods">
+    <mouse-shortcut keystroke="control button3" />
+  </action>
+  <action id="ImportModule">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="ImportProject">
+    <keyboard-shortcut first-keystroke="shift ctrl alt y" />
+  </action>
+  <action id="JRebel Debug">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="Jdbc.OpenConsole.New.Generate">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="LoadUnloadModules">
+    <keyboard-shortcut first-keystroke="shift ctrl alt back_slash" />
+  </action>
+  <action id="Maven.AddManagedFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+  </action>
+  <action id="Maven.ReimportProject">
+    <keyboard-shortcut first-keystroke="alt y" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="OpenCodotaSearch">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="RemoteHostView.Rename" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="Run" />
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="RunClass" />
+  <action id="RunTargetAction" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="Toolkit.RefreshServices">
+    <keyboard-shortcut first-keystroke="shift y" />
+  </action>
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+  <action id="android.deploy.CodeSwap" />
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
+</keymap>

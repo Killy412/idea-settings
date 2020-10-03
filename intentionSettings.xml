@@ -1,0 +1,12 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Other/Flip Binary Expression" />
+    <ignoreAction name="Java/Declaration/Add Runtime Exception to Method Signature" />
+    <ignoreAction name="Java/Declaration/Unimplement Interface/Class" />
+    <ignoreAction name="Java/Modifiers/Make Public" />
+    <ignoreAction name="Java/Imports/Add On Demand Static Import" />
+    <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="Database/Run query in console" />
+  </component>
+</application>

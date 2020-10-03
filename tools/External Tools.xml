@@ -1,0 +1,14 @@
+<toolSet name="External Tools">
+  <tool name="jsHint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\Administrator\AppData\Roaming\npm\jshint.cmd" />
+      <option name="PARAMETERS" value="–reporter=C:\Users\Administrator\node_modules\jshint-path-reporter $FileName$" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Administrator/AppData/Roaming/npm" />
+    </exec>
+    <filter>
+      <option name="NAME" value="No name" />
+      <option name="DESCRIPTION" />
+      <option name="REGEXP" value="$FILE_PATH$[ \t]*[:;,\[\(\{&lt;]$LINE$(?:[:;,\.]$COLUMN$)?.*" />
+    </filter>
+  </tool>
+</toolSet>
