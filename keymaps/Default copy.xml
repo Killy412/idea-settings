@@ -12,6 +12,9 @@
   <action id="ActivateJRebelToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="ActivateJsonParserToolWindow">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
