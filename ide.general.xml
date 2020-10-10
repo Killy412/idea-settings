@@ -13,7 +13,6 @@
     <option name="useDefaultBrowser" value="false" />
   </component>
   <component name="Registry">
-    <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.tree.ui.experimental" value="false" />
