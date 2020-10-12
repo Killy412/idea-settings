@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="material" />
       <item value="the current inotify watch limit is too low" />
       <item value="external file changes sync may be slow" />
     </histories>
