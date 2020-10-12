@@ -1,4 +1,10 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="the current inotify watch limit is too low" />
+      <item value="external file changes sync may be slow" />
+    </histories>
+  </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
   </component>
