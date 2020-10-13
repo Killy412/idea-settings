@@ -93,7 +93,7 @@
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
       <library>
-        <url>file:///var/local/maven-repo/mysql/mysql-connector-java/8.0.13/mysql-connector-java-8.0.13.jar</url>
+        <url>file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.13/mysql-connector-java-8.0.13.jar</url>
       </library>
     </driver>
     <driver id="mysql">
