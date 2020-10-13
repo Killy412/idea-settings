@@ -55,15 +55,6 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*INFO.*" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="foregroundColor">
-                            <GrepColor>
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                        </GrepStyle>
-                      </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
