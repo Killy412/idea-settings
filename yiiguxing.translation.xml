@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="china" />
+      <item value="china]" />
+      <item value="sdf" />
+      <item value="proxy" />
       <item value="closing inbound before receiving peer's close_notify" />
       <item value="material" />
       <item value="the current inotify watch limit is too low" />
