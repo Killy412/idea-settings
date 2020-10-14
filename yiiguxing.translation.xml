@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="统计" />
       <item value="The driver has not received any packets from the server." />
       <item value="object is not an instance of declaring class" />
       <item value="The supplied file was empty (zero bytes long)" />
@@ -13,6 +14,11 @@
       <item value="the current inotify watch limit is too low" />
       <item value="external file changes sync may be slow" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
