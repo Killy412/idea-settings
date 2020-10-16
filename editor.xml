@@ -12,7 +12,7 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.log; *.java; *.xml; *.vue;" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.log;" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="InlayHintsSettings">
