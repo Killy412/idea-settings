@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expression" />
       <item value="统计" />
       <item value="The driver has not received any packets from the server." />
       <item value="object is not an instance of declaring class" />
