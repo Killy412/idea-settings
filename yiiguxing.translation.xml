@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prefer_host_mode" />
       <item value="prefer" />
       <item value="发货通知单" />
       <item value="后缀" />
