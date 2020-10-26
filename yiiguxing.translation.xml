@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="富文本" />
+      <item value="读取合同" />
+      <item value="识别合同" />
       <item value="后缀" />
       <item value="prefer_host_mode" />
       <item value="prefer" />
