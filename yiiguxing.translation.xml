@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="后缀" />
       <item value="prefer_host_mode" />
       <item value="prefer" />
       <item value="发货通知单" />
-      <item value="后缀" />
       <item value="order No" />
       <item value="expression" />
       <item value="统计" />
@@ -23,7 +23,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
