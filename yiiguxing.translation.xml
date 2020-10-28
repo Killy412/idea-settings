@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="评价" />
+      <item value="评价总数" />
       <item value="Unable to start embedded Undertow" />
       <item value="富文本" />
       <item value="读取合同" />
@@ -27,7 +29,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
