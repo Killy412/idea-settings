@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="uuid" />
       <item value="评价" />
       <item value="评价总数" />
       <item value="Unable to start embedded Undertow" />
