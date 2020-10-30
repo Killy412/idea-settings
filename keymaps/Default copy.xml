@@ -8,6 +8,9 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="ActivateElasticsearchToolWindow">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateJRebelToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
