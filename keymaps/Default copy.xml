@@ -24,9 +24,6 @@
   <action id="ActivatePToolsToolWindow">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
-  <action id="ActivateRESTClientToolWindow">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
