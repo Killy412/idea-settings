@@ -12,6 +12,9 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateGradleToolWindow">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="ActivateJRebelToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
