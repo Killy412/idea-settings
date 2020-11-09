@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="周二" />
       <item value="预览" />
       <item value="deep completions" />
       <item value="Please set the right groupId" />
@@ -46,7 +47,11 @@
         <option name="appId" value="20200306000393838" />
       </app-key>
     </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
-    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
