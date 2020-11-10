@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rotated" />
+      <item value="rounded" />
       <item value="周二" />
       <item value="预览" />
       <item value="deep completions" />
@@ -36,7 +38,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
+        <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="8" />
       </map>
     </option>
