@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="采购合同" />
+      <item value="生成" />
       <item value="This example creates a table, but you would normally load table from a database" />
       <item value="but you would normally load table from a database" />
       <item value="Make a clone of a table in the document and insert it after the original table" />
@@ -53,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
