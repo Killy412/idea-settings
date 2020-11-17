@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Make a clone of a table in the document and insert it after the original table" />
       <item value="明天" />
       <item value="Facade" />
       <item value="Thread state for a waiting thread. A thread is in the waiting state due to calling one of the following methods: &lt;ul&gt; &lt;li&gt;{@link Object#wait() Object.wait} with no timeout&lt;/li&gt; &lt;li&gt;{@link #join() Thread.join} with no timeout&lt;/li&gt; &lt;li&gt;{@link LockSupport#park() LockSupport.park}&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;A thread in the waiting state is waiting for another thread to perform a particular action. For example, a thread that has called &lt;tt&gt;Object.wait()&lt;/tt&gt; on an object is waiting for another thread to call &lt;tt&gt;Object.notify()&lt;/tt&gt; or &lt;tt&gt;Object.notifyAll()&lt;/tt&gt; on that object. A thread that has called &lt;tt&gt;Thread.join()&lt;/tt&gt; is waiting for a specified thread to terminate." />
@@ -49,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
