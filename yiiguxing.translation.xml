@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if {@code true}, generated string may include * numeric characters" />
+      <item value="if {@code true}, generated string may include * alphabetic characters" />
+      <item value="Alphabetic" />
       <item value="分隔" />
       <item value="生成" />
       <item value="shengcheng" />
@@ -48,14 +51,11 @@
       <item value="The supplied file was empty (zero bytes long)" />
       <item value="china" />
       <item value="china]" />
-      <item value="sdf" />
-      <item value="proxy" />
-      <item value="closing inbound before receiving peer's close_notify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
