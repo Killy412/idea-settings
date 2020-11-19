@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cell Vertical Alignment" />
       <item value="AUTO FIT TO WINDOW" />
       <item value="FIXED COLUMN WIDTHS" />
       <item value="AUTO FIT TO CONTENTS" />
@@ -50,12 +51,11 @@
       <item value="prefer" />
       <item value="发货通知单" />
       <item value="order No" />
-      <item value="expression" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="ENGLISH" value="29" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
