@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="关联" />
+      <item value="associa" />
+      <item value="未关联" />
       <item value="验收" />
       <item value="验收凭证" />
       <item value="deal Price" />
@@ -48,14 +51,11 @@
       <item value="rounded" />
       <item value="周二" />
       <item value="预览" />
-      <item value="deep completions" />
-      <item value="Please set the right groupId" />
-      <item value="Duplicated prefix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
