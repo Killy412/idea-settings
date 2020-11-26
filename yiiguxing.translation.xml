@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deep" />
       <item value="fluent" />
       <item value="factories" />
       <item value="if this semaphore has fairness set true." />
@@ -24,7 +25,6 @@
       <item value="KEEP SOURCE FORMATTING" />
       <item value="The newChild was created from a different document than the one that created this node." />
       <item value="Next Sibling" />
-      <item value="deep" />
       <item value="Cell Vertical Alignment" />
       <item value="AUTO FIT TO WINDOW" />
       <item value="FIXED COLUMN WIDTHS" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
+        <entry key="CHINESE" value="49" />
         <entry key="ENGLISH" value="49" />
         <entry key="GREEK" value="1" />
       </map>
