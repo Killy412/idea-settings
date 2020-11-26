@@ -1,3 +1,5 @@
 <application>
-  <component name="ToStringTemplates" defaultTemplateName="ToStringBuilder (Apache commons-lang 3)" />
+  <component name="ToStringTemplates">
+    <option name="defaultTempalteName" value="String concat (+)" />
+  </component>
 </application>
