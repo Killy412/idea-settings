@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dispatch bill" />
+      <item value="dispatch billl" />
+      <item value="发货单" />
+      <item value="发货" />
       <item value="Specify one or more validation groups to apply to the validation step kicked off by this annotation. &lt;p&gt;JSR-303 defines validation groups as custom annotations which an application declares for the sole purpose of using them as type-safe group arguments, as implemented in {@link org.springframework.validation.beanvalidation.SpringValidatorAdapter}. &lt;p&gt;Other {@link org.springframework.validation.SmartValidator} implementations may support class arguments in other ways as well." />
       <item value="生成" />
       <item value="deep" />
@@ -47,15 +51,11 @@
       <item value="明天" />
       <item value="Facade" />
       <item value="Thread state for a waiting thread. A thread is in the waiting state due to calling one of the following methods: &lt;ul&gt; &lt;li&gt;{@link Object#wait() Object.wait} with no timeout&lt;/li&gt; &lt;li&gt;{@link #join() Thread.join} with no timeout&lt;/li&gt; &lt;li&gt;{@link LockSupport#park() LockSupport.park}&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;A thread in the waiting state is waiting for another thread to perform a particular action. For example, a thread that has called &lt;tt&gt;Object.wait()&lt;/tt&gt; on an object is waiting for another thread to call &lt;tt&gt;Object.notify()&lt;/tt&gt; or &lt;tt&gt;Object.notifyAll()&lt;/tt&gt; on that object. A thread that has called &lt;tt&gt;Thread.join()&lt;/tt&gt; is waiting for a specified thread to terminate." />
-      <item value="Thread state for a thread blocked waiting for a monitor lock. A thread in the blocked state is waiting for a monitor lock to enter a synchronized block/method or reenter a synchronized block/method after calling {@link Object#wait() Object.wait}." />
-      <item value="Thread state for a thread blocked waiting for a monitor lock. A thread in the blocked state is waiting for a monitor lock to enter a synchronized block/method or reenter a synchronized block/method after calling" />
-      <item value="Thread state for a runnable thread. A thread in the runnable state is executing in the Java virtual machine but it may be waiting for other resources from the operating system such as processor." />
-      <item value="Thread state for a terminated thread. The thread has completed execution." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="52" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
