@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specify one or more validation groups to apply to the validation step kicked off by this annotation. &lt;p&gt;JSR-303 defines validation groups as custom annotations which an application declares for the sole purpose of using them as type-safe group arguments, as implemented in {@link org.springframework.validation.beanvalidation.SpringValidatorAdapter}. &lt;p&gt;Other {@link org.springframework.validation.SmartValidator} implementations may support class arguments in other ways as well." />
+      <item value="生成" />
       <item value="deep" />
       <item value="fluent" />
       <item value="factories" />
@@ -36,7 +38,6 @@
       <item value="if {@code true}, generated string may include * alphabetic characters" />
       <item value="Alphabetic" />
       <item value="分隔" />
-      <item value="生成" />
       <item value="shengcheng" />
       <item value="Returns the value of the field represented by this {@code Field}, on the specified object. The value is automatically wrapped in an object if it has a primitive type." />
       <item value="采购合同" />
@@ -50,12 +51,11 @@
       <item value="Thread state for a thread blocked waiting for a monitor lock. A thread in the blocked state is waiting for a monitor lock to enter a synchronized block/method or reenter a synchronized block/method after calling" />
       <item value="Thread state for a runnable thread. A thread in the runnable state is executing in the Java virtual machine but it may be waiting for other resources from the operating system such as processor." />
       <item value="Thread state for a terminated thread. The thread has completed execution." />
-      <item value="Thread state for a waiting thread with a specified waiting time. A thread is in the timed waiting state due to calling one of the following methods with a specified positive waiting time:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
