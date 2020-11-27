@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发货单" />
       <item value="dispatch bill" />
       <item value="dispatch billl" />
-      <item value="发货单" />
       <item value="发货" />
       <item value="Specify one or more validation groups to apply to the validation step kicked off by this annotation. &lt;p&gt;JSR-303 defines validation groups as custom annotations which an application declares for the sole purpose of using them as type-safe group arguments, as implemented in {@link org.springframework.validation.beanvalidation.SpringValidatorAdapter}. &lt;p&gt;Other {@link org.springframework.validation.SmartValidator} implementations may support class arguments in other ways as well." />
       <item value="生成" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
