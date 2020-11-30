@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Isolation" />
+      <item value="Propagation" />
       <item value="trial" />
       <item value="核减" />
       <item value="未核减" />
@@ -49,13 +51,11 @@
       <item value="Returns the value of the field represented by this {@code Field}, on the specified object. The value is automatically wrapped in an object if it has a primitive type." />
       <item value="采购合同" />
       <item value="This example creates a table, but you would normally load table from a database" />
-      <item value="but you would normally load table from a database" />
-      <item value="Make a clone of a table in the document and insert it after the original table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
