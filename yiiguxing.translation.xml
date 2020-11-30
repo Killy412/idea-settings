@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trial" />
       <item value="核减" />
       <item value="未核减" />
       <item value="发货单" />
@@ -50,11 +51,10 @@
       <item value="This example creates a table, but you would normally load table from a database" />
       <item value="but you would normally load table from a database" />
       <item value="Make a clone of a table in the document and insert it after the original table" />
-      <item value="明天" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
+        <entry key="CHINESE" value="53" />
         <entry key="ENGLISH" value="53" />
         <entry key="GREEK" value="1" />
       </map>
