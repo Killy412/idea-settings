@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="核减" />
       <item value="成交凭证列表" />
       <item value="成交凭证" />
       <item value="purchas" />
       <item value="Isolation" />
       <item value="Propagation" />
       <item value="trial" />
-      <item value="核减" />
       <item value="未核减" />
       <item value="发货单" />
       <item value="dispatch bill" />
