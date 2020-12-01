@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="成交凭证列表" />
+      <item value="成交凭证" />
       <item value="purchas" />
       <item value="Isolation" />
       <item value="Propagation" />
@@ -50,7 +51,6 @@
       <item value="Alphabetic" />
       <item value="分隔" />
       <item value="shengcheng" />
-      <item value="Returns the value of the field represented by this {@code Field}, on the specified object. The value is automatically wrapped in an object if it has a primitive type." />
     </histories>
     <option name="languageScores">
       <map>
