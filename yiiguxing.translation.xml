@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="warehouse collect" />
+      <item value="warehouse" />
       <item value="核减" />
       <item value="成交凭证列表" />
       <item value="成交凭证" />
@@ -49,12 +51,10 @@
       <item value="if {@code true}, generated string may include * numeric characters" />
       <item value="if {@code true}, generated string may include * alphabetic characters" />
       <item value="Alphabetic" />
-      <item value="分隔" />
-      <item value="shengcheng" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
+        <entry key="CHINESE" value="56" />
         <entry key="ENGLISH" value="56" />
         <entry key="GREEK" value="1" />
       </map>
