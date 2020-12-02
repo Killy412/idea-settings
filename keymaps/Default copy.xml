@@ -32,6 +32,9 @@
   </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
+  <action id="ByteCodeViewer">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="shift f9" />
   </action>
