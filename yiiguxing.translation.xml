@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Comparator" />
       <item value="warehouse collect" />
       <item value="warehouse" />
       <item value="核减" />
@@ -50,12 +51,11 @@
       <item value="doc分隔" />
       <item value="if {@code true}, generated string may include * numeric characters" />
       <item value="if {@code true}, generated string may include * alphabetic characters" />
-      <item value="Alphabetic" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
