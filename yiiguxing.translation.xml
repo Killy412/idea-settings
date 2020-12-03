@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns {@code true} if the provided reference is non-{@code null} otherwise returns {@code false}." />
       <item value="contract pdf url" />
       <item value="Comparator" />
       <item value="warehouse collect" />
@@ -50,12 +51,11 @@
       <item value="invalid" />
       <item value="Field code '今天周二' is invalid or not supported." />
       <item value="doc分隔" />
-      <item value="if {@code true}, generated string may include * numeric characters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
