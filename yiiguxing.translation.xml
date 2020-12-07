@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="235" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Invalid bound statement (not found): com.hwidt.system.mapper.SysConfigMapper.selectConfigList" />
       <item value="put&#10;" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '() not null," />
       <item value="清除数据&#10;" />
@@ -54,7 +55,6 @@
       <item value="deal Price" />
       <item value="Sorts the test methods by the method name, in lexicographic order, with {@link Method#toString()} used as a tiebreaker" />
       <item value="Leaves the test methods in the order returned by the JVM. Note that the order from the JVM may vary from run to run" />
-      <item value="Sorts the test methods in a deterministic, but not predictable, order" />
     </histories>
     <option name="languageScores">
       <map>
