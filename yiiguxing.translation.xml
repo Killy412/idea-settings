@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="590" />
-    <option name="newTranslationDialogY" value="419" />
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="1159" />
+    <option name="newTranslationDialogY" value="244" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="周二" />
+      <item value="&#10;周二" />
+      <item value="hwidt周二" />
       <item value="hwidt" />
+      <item value="hwidt州哦" />
       <item value="今天&#10;" />
       <item value="人工费用" />
       <item value="Returns {@code true} if the provided reference is non-{@code null} otherwise returns {@code false}." />
@@ -50,10 +55,6 @@
       <item value="KEEP SOURCE FORMATTING" />
       <item value="The newChild was created from a different document than the one that created this node." />
       <item value="Next Sibling" />
-      <item value="Cell Vertical Alignment" />
-      <item value="AUTO FIT TO WINDOW" />
-      <item value="FIXED COLUMN WIDTHS" />
-      <item value="AUTO FIT TO CONTENTS" />
     </histories>
     <option name="languageScores">
       <map>
