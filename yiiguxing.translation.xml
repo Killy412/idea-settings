@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
-    <option name="newTranslationDialogX" value="1159" />
-    <option name="newTranslationDialogY" value="244" />
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="951" />
+    <option name="newTranslationDialogY" value="235" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="清除数据&#10;" />
+      <item value="清除数据" />
+      <item value="清除" />
+      <item value="q" />
+      <item value="g" />
       <item value="周二" />
       <item value="&#10;周二" />
       <item value="hwidt周二" />
@@ -50,11 +55,6 @@
       <item value="Sorts the test methods in a deterministic, but not predictable, order" />
       <item value="column" />
       <item value="询价记录" />
-      <item value="KEEP DIFFERENT STYLES" />
-      <item value="USE DESTINATION STYLES" />
-      <item value="KEEP SOURCE FORMATTING" />
-      <item value="The newChild was created from a different document than the one that created this node." />
-      <item value="Next Sibling" />
     </histories>
     <option name="languageScores">
       <map>
