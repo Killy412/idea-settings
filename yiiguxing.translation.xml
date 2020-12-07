@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="590" />
+    <option name="newTranslationDialogY" value="419" />
     <histories>
+      <item value="hwidt" />
+      <item value="今天&#10;" />
       <item value="人工费用" />
       <item value="Returns {@code true} if the provided reference is non-{@code null} otherwise returns {@code false}." />
       <item value="contract pdf url" />
@@ -49,8 +54,6 @@
       <item value="AUTO FIT TO WINDOW" />
       <item value="FIXED COLUMN WIDTHS" />
       <item value="AUTO FIT TO CONTENTS" />
-      <item value="invalid" />
-      <item value="Field code '今天周二' is invalid or not supported." />
     </histories>
     <option name="languageScores">
       <map>
@@ -59,6 +62,9 @@
         <entry key="GREEK" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1607304322932" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
