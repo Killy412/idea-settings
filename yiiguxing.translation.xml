@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="org.springframework.dao.DataIntegrityViolationException: Error attempting to get column 'procurementNumber' from result set. Cause: java.sql.SQLDataException: Cannot determine value type from string 'HW93982734' ; Cannot determine value type from string 'HW93982734'; nested exception is java.sql.SQLDataException: Cannot determine value type from string 'HW93982734'" />
+      <item value="dec&#10;" />
       <item value="today&#10;" />
       <item value="周一&#10;&#10;" />
       <item value="明天&#10;" />
@@ -54,13 +56,11 @@
       <item value="Acquires a permit from this semaphore, blocking until one is available, or the thread is {@linkplain Thread#interrupt interrupted}." />
       <item value="Barrier" />
       <item value="Cyclic" />
-      <item value="关联" />
-      <item value="associa" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
