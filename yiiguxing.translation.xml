@@ -1,14 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="713" />
     <option name="newTranslationDialogY" value="360" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="周日" />
+      <item value="zhou&#10;" />
+      <item value="today&#10;" />
       <item value="org.springframework.dao.DataIntegrityViolationException: Error attempting to get column 'procurementNumber' from result set. Cause: java.sql.SQLDataException: Cannot determine value type from string 'HW93982734' ; Cannot determine value type from string 'HW93982734'; nested exception is java.sql.SQLDataException: Cannot determine value type from string 'HW93982734'" />
       <item value="dec&#10;" />
-      <item value="today&#10;" />
       <item value="周一&#10;&#10;" />
       <item value="明天&#10;" />
       <item value="明天&#10;&#10;" />
@@ -54,8 +56,6 @@
       <item value="if this semaphore has fairness set true." />
       <item value="Releases a permit, returning it to the semaphore." />
       <item value="Acquires a permit from this semaphore, blocking until one is available, or the thread is {@linkplain Thread#interrupt interrupted}." />
-      <item value="Barrier" />
-      <item value="Cyclic" />
     </histories>
     <option name="languageScores">
       <map>
