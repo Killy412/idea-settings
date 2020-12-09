@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
-    <option name="newTranslationDialogX" value="700" />
-    <option name="newTranslationDialogY" value="391" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogX" value="713" />
+    <option name="newTranslationDialogY" value="360" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="周一&#10;&#10;" />
+      <item value="明天&#10;" />
+      <item value="明天&#10;&#10;" />
+      <item value="today&#10;" />
+      <item value="today" />
       <item value="数据&#10;" />
       <item value="Invalid bound statement (not found): com.hwidt.system.mapper.SysConfigMapper.selectConfigList" />
       <item value="put&#10;" />
@@ -50,11 +56,6 @@
       <item value="Cyclic" />
       <item value="关联" />
       <item value="associa" />
-      <item value="未关联" />
-      <item value="验收" />
-      <item value="验收凭证" />
-      <item value="deal Price" />
-      <item value="Sorts the test methods by the method name, in lexicographic order, with {@link Method#toString()} used as a tiebreaker" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,11 +73,6 @@
       <app-key>
         <option name="appId" value="20200306000393838" />
       </app-key>
-    </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
   </component>
