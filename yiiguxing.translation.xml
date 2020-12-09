@@ -6,10 +6,10 @@
     <option name="newTranslationDialogY" value="360" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="today&#10;" />
       <item value="周一&#10;&#10;" />
       <item value="明天&#10;" />
       <item value="明天&#10;&#10;" />
-      <item value="today&#10;" />
       <item value="today" />
       <item value="数据&#10;" />
       <item value="Invalid bound statement (not found): com.hwidt.system.mapper.SysConfigMapper.selectConfigList" />
