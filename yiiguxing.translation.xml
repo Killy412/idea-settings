@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="321" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Mutex" />
+      <item value="An object that represents a precompiled SQL statement. &lt;P&gt;A SQL statement is precompiled and stored in a &lt;code&gt;PreparedStatement&lt;code&gt; object. This object can then be used to efficiently execute this statement multiple times." />
       <item value="Method handles" />
       <item value="A method handle is a typed, directly executable reference to an underlying method, constructor, field, or similar low-level operation, with optional transformations of arguments or return values. These transformations are quite general, and include such patterns as" />
       <item value="周日" />
@@ -55,13 +57,11 @@
       <item value="生成" />
       <item value="deep" />
       <item value="fluent" />
-      <item value="factories" />
-      <item value="if this semaphore has fairness set true." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
