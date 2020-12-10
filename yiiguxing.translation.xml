@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="321" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Parameter" />
+      <item value="Prepared" />
       <item value="Mutex" />
       <item value="An object that represents a precompiled SQL statement. &lt;P&gt;A SQL statement is precompiled and stored in a &lt;code&gt;PreparedStatement&lt;code&gt; object. This object can then be used to efficiently execute this statement multiple times." />
       <item value="Method handles" />
@@ -55,13 +57,11 @@
       <item value="发货" />
       <item value="Specify one or more validation groups to apply to the validation step kicked off by this annotation. &lt;p&gt;JSR-303 defines validation groups as custom annotations which an application declares for the sole purpose of using them as type-safe group arguments, as implemented in {@link org.springframework.validation.beanvalidation.SpringValidatorAdapter}. &lt;p&gt;Other {@link org.springframework.validation.SmartValidator} implementations may support class arguments in other ways as well." />
       <item value="生成" />
-      <item value="deep" />
-      <item value="fluent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
