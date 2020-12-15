@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="321" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended" />
       <item value="resolve" />
       <item value="Links the specified class. This (misleadingly named) method may be used by a class loader to link a class. If the class {@code c} has already been linked, then this method simply returns. Otherwise, the class is linked as described in the &quot;Execution&quot; chapter of &lt;cite&gt;The Java Language Specification&lt;cite&gt;." />
       <item value="Thrown if an application tries to create an array with negative size." />
@@ -56,12 +57,11 @@
       <item value="warehouse" />
       <item value="核减" />
       <item value="成交凭证列表" />
-      <item value="成交凭证" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
