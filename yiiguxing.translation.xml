@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="9" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Some problems were encountered while building the effective model for com.hwidt:hwidt-fisco:jar:1.0.0" />
+      <item value="Some problems were encountered while building the effective model for" />
       <item value="converd&#10;&#10;" />
       <item value="convert&#10;" />
       <item value="Converd" />
@@ -55,13 +57,11 @@
       <item value="&#10;周二" />
       <item value="hwidt周二" />
       <item value="hwidt" />
-      <item value="hwidt州哦" />
-      <item value="今天&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
