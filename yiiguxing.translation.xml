@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="9" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Phantom reference objects, which are enqueued after the collector determines that their referents may otherwise be reclaimed. Phantom references are most often used for scheduling pre-mortem cleanup actions in a more flexible way than is possible with the Java finalization mechanism." />
       <item value="Some problems were encountered while building the effective model for com.hwidt:hwidt-fisco:jar:1.0.0" />
       <item value="Some problems were encountered while building the effective model for" />
       <item value="converd&#10;&#10;" />
@@ -56,12 +57,11 @@
       <item value="周二" />
       <item value="&#10;周二" />
       <item value="hwidt周二" />
-      <item value="hwidt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
