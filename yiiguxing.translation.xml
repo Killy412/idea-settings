@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="9" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The bean 'operLogAspect', defined in class path resource [comunicorncommonlogLogAutoConfiguration.class], could not be registered. A bean with that name has already been defined in file [homekillyhwProjectunicorn-parent-newmiddle-platformunicorn-commonunicorn-common-logtargetclassescomunicorncommonlogaspectOperLogAspect.class] and overriding is disabled." />
       <item value="Phantom reference objects, which are enqueued after the collector determines that their referents may otherwise be reclaimed. Phantom references are most often used for scheduling pre-mortem cleanup actions in a more flexible way than is possible with the Java finalization mechanism." />
       <item value="Some problems were encountered while building the effective model for com.hwidt:hwidt-fisco:jar:1.0.0" />
       <item value="Some problems were encountered while building the effective model for" />
@@ -56,18 +57,17 @@
       <item value="g" />
       <item value="周二" />
       <item value="&#10;周二" />
-      <item value="hwidt周二" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1607925305688" />
+    <option name="lastTrimTime" value="1608532088108" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
