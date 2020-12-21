@@ -59,7 +59,8 @@
                         <GrepStyle>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-2504512" />
+                              <option name="color" value="-2527633" />
+                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                         </GrepStyle>
