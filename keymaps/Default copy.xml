@@ -12,6 +12,7 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateGradleToolWindow">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
