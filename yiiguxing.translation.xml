@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="9" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.unicorn.common.log.LogAutoConfiguration': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.unicorn.system.feign.sysoperlog.SysOperLogFeignApi': FactoryBean threw exception on object creation; nested exception is java.lang.IllegalStateException: No fallbackFactory instance of type class com.unicorn.system.feign.sysoperlog.factory.SysOperLogFeignApiFallbackFactory found for feign client sysoperlogfeignapi" />
+      <item value="[com.unicorn.product.mapper.CustomerLevelMapper.insert] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Insert]" />
       <item value="The driver has not received any packets from the server" />
       <item value="The bean 'operLogAspect', defined in class path resource [comunicorncommonlogLogAutoConfiguration.class], could not be registered. A bean with that name has already been defined in file [homekillyhwProjectunicorn-parent-newmiddle-platformunicorn-commonunicorn-common-logtargetclassescomunicorncommonlogaspectOperLogAspect.class] and overriding is disabled." />
       <item value="Phantom reference objects, which are enqueued after the collector determines that their referents may otherwise be reclaimed. Phantom references are most often used for scheduling pre-mortem cleanup actions in a more flexible way than is possible with the Java finalization mechanism." />
@@ -55,13 +57,11 @@
       <item value="清除数据" />
       <item value="清除" />
       <item value="q" />
-      <item value="g" />
-      <item value="周二" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
