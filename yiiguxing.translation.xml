@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="9" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="An object that implements the Enumeration interface generates a series of elements, one at a time. Successive calls to the &lt;code&gt;nextElement&lt;code&gt; method return successive elements of the series." />
+      <item value="Enumeration" />
+      <item value="A {@link ConcurrentHashMap} that uses {@link ReferenceTypeSOFT soft} or {@linkplain ReferenceTypeWEAK weak} references for both {@code keys} and {@code values}." />
       <item value="Delegate for resolving constructors and factory methods. &lt;p&gt;Performs constructor resolution through argument matching." />
       <item value="cancelling refresh attempt" />
       <item value="Possibly consider using a shorter maxLifetime value." />
@@ -54,14 +57,11 @@
       <item value="org.springframework.dao.DataIntegrityViolationException: Error attempting to get column 'procurementNumber' from result set. Cause: java.sql.SQLDataException: Cannot determine value type from string 'HW93982734' ; Cannot determine value type from string 'HW93982734'; nested exception is java.sql.SQLDataException: Cannot determine value type from string 'HW93982734'" />
       <item value="dec&#10;" />
       <item value="周一&#10;&#10;" />
-      <item value="明天&#10;" />
-      <item value="明天&#10;&#10;" />
-      <item value="today" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
