@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="9" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Possibly consider using a shorter maxLifetime value." />
       <item value="ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.unicorn.system.feign.channel.ChannelFeignApi': FactoryBean threw exception on object creation; nested exception is java.lang.IllegalStateException: Method has too many Body parameters: public abstract com.unicorn.common.core.utils.RetDTO com.unicorn.system.feign.channel.ChannelFeignApi.listPageChannel(com.baomidou.mybatisplus.extension.plugins.pagination.Page,com.unicorn.system.dto.ChannelDTO)" />
       <item value="Parameter 0 of constructor in com.unicorn.common.log.LogAutoConfiguration required a bean of type 'com.unicorn.system.feign.sysoperlog.SysOperLogFeignApi' that could not be found." />
       <item value="Endpoint ID 'nacos-config' contains invalid characters, please migrate to a valid format." />
@@ -56,12 +57,11 @@
       <item value="today" />
       <item value="数据&#10;" />
       <item value="Invalid bound statement (not found): com.hwidt.system.mapper.SysConfigMapper.selectConfigList" />
-      <item value="put&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="89" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
