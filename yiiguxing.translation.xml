@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="9" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Indicates that an annotation type is automatically inherited. If an Inherited meta-annotation is present on an annotation type declaration, and the user queries the annotation type on a class declaration, and the class declaration has no annotation for this type, then the class's superclass will automatically be queried for the annotation type. This process will be repeated until an annotation for this type is found, or the top of the class hierarchy (Object) is reached. If no superclass has an annotation for this type, then the query will indicate that the class in question has no such annotation." />
       <item value="An object that implements the Enumeration interface generates a series of elements, one at a time. Successive calls to the &lt;code&gt;nextElement&lt;code&gt; method return successive elements of the series." />
       <item value="Enumeration" />
       <item value="A {@link ConcurrentHashMap} that uses {@link ReferenceTypeSOFT soft} or {@linkplain ReferenceTypeWEAK weak} references for both {@code keys} and {@code values}." />
@@ -56,12 +57,11 @@
       <item value="today&#10;" />
       <item value="org.springframework.dao.DataIntegrityViolationException: Error attempting to get column 'procurementNumber' from result set. Cause: java.sql.SQLDataException: Cannot determine value type from string 'HW93982734' ; Cannot determine value type from string 'HW93982734'; nested exception is java.sql.SQLDataException: Cannot determine value type from string 'HW93982734'" />
       <item value="dec&#10;" />
-      <item value="周一&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
