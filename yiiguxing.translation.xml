@@ -2,11 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="635" />
-    <option name="newTranslationDialogWidth" value="818" />
-    <option name="newTranslationDialogX" value="969" />
-    <option name="newTranslationDialogY" value="9" />
+    <option name="newTranslationDialogWidth" value="816" />
+    <option name="newTranslationDialogX" value="423" />
+    <option name="newTranslationDialogY" value="257" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="库存" />
+      <item value="库存&#10;" />
+      <item value="select" />
       <item value="Indicates that an annotation type is automatically inherited. If an Inherited meta-annotation is present on an annotation type declaration, and the user queries the annotation type on a class declaration, and the class declaration has no annotation for this type, then the class's superclass will automatically be queried for the annotation type. This process will be repeated until an annotation for this type is found, or the top of the class hierarchy (Object) is reached. If no superclass has an annotation for this type, then the query will indicate that the class in question has no such annotation." />
       <item value="An object that implements the Enumeration interface generates a series of elements, one at a time. Successive calls to the &lt;code&gt;nextElement&lt;code&gt; method return successive elements of the series." />
       <item value="Enumeration" />
@@ -54,9 +57,6 @@
       <item value="A method handle is a typed, directly executable reference to an underlying method, constructor, field, or similar low-level operation, with optional transformations of arguments or return values. These transformations are quite general, and include such patterns as" />
       <item value="周日" />
       <item value="zhou&#10;" />
-      <item value="today&#10;" />
-      <item value="org.springframework.dao.DataIntegrityViolationException: Error attempting to get column 'procurementNumber' from result set. Cause: java.sql.SQLDataException: Cannot determine value type from string 'HW93982734' ; Cannot determine value type from string 'HW93982734'; nested exception is java.sql.SQLDataException: Cannot determine value type from string 'HW93982734'" />
-      <item value="dec&#10;" />
     </histories>
     <option name="languageScores">
       <map>
