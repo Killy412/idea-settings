@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="257" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Dependency is duplicated in file(s):" />
       <item value="Consider defining a bean of type 'org.springframework.http.codec.ServerCodecConfigurer' in your configuration." />
       <item value="库存" />
       <item value="库存&#10;" />
@@ -56,7 +57,6 @@
       <item value="An object that represents a precompiled SQL statement. &lt;P&gt;A SQL statement is precompiled and stored in a &lt;code&gt;PreparedStatement&lt;code&gt; object. This object can then be used to efficiently execute this statement multiple times." />
       <item value="Method handles" />
       <item value="A method handle is a typed, directly executable reference to an underlying method, constructor, field, or similar low-level operation, with optional transformations of arguments or return values. These transformations are quite general, and include such patterns as" />
-      <item value="周日" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608532088108" />
+    <option name="lastTrimTime" value="1609133689538" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
