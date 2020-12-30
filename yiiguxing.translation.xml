@@ -2,11 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="635" />
-    <option name="newTranslationDialogWidth" value="816" />
+    <option name="newTranslationDialogWidth" value="814" />
     <option name="newTranslationDialogX" value="423" />
-    <option name="newTranslationDialogY" value="257" />
+    <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="属性&#10;" />
+      <item value="processing" />
       <item value="mutate" />
       <item value="@return path prefix to be used by all method-level mappings. Can be used with or without &lt;code&gt;@RibbonClient&lt;code&gt;." />
       <item value="path prefix to be used by all method-level mappings. Can be used with or" />
@@ -55,8 +57,6 @@
       <item value="上传" />
       <item value="get Parent File" />
       <item value="Returns a class loaded by the bootstrap class loader; or return null if not found." />
-      <item value="Returns the system class loader for delegation. This is the default delegation parent for new &lt;tt&gt;ClassLoader&lt;tt&gt; instances, and is typically the class loader used to start the application." />
-      <item value="A class loader is an object that is responsible for loading classes. The class &lt;tt&gt;ClassLoader&lt;tt&gt; is an abstract class. Given the &lt;a href=&quot;name&quot;&gt;binary name&lt;a&gt; of a class, a class loader should attempt to locate or generate data that constitutes a definition for the class. A typical strategy is to transform the name into a file name and then read a &quot;class file&quot; of that name from a file system." />
     </histories>
     <option name="languageScores">
       <map>
