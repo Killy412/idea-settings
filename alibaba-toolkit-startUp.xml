@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/hongwei" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/hwProject" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/mqProject" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/openSourceProject" startUpFlag="FIRST" />
