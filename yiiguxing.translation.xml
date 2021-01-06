@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="injection" />
+      <item value="dependency injection" />
       <item value="Invoke factory processors registered as beans in the context." />
       <item value="Circuit Breaker" />
       <item value="Discovery" />
@@ -55,19 +57,17 @@
       <item value="Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended" />
       <item value="resolve" />
       <item value="Links the specified class. This (misleadingly named) method may be used by a class loader to link a class. If the class {@code c} has already been linked, then this method simply returns. Otherwise, the class is linked as described in the &quot;Execution&quot; chapter of &lt;cite&gt;The Java Language Specification&lt;cite&gt;." />
-      <item value="Thrown if an application tries to create an array with negative size." />
-      <item value="区块链&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="110" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609133689538" />
+    <option name="lastTrimTime" value="1609899625620" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -75,6 +75,5 @@
         <option name="appId" value="20200306000393838" />
       </app-key>
     </option>
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>
