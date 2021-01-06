@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Invoke factory processors registered as beans in the context" />
       <item value="VALID" />
       <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.unicorn.product.ProductApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'productCategoryRelServiceImpl' for bean class [com.unicorn.product.service.productcategoryrel.impl.ProductCategoryRelServiceImpl] conflicts with existing, non-compatible bean definition of same name and class [com.unicorn.product.service.ProductCategoryRelServiceImpl]" />
       <item value="match" />
@@ -56,12 +57,11 @@
       <item value="Some problems were encountered while building the effective model for" />
       <item value="converd&#10;&#10;" />
       <item value="convert&#10;" />
-      <item value="Converd" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
