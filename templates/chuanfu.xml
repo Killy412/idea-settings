@@ -18,7 +18,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="/hcla" value="/**&#10; * @version V1.0&#10; * @description&#10; * @author ChuanFu&#10; * @contact QQ525491994&#10; * @date $date$&#10; * @Copyright 该项目由宏伟数科版权所有，未经过允许的情况下，私自分享视频和源码属于违法行为。&#10; */" description="add comments for class" toReformat="false" toShortenFQNames="true">
+  <template name="/hcla" value="/**&#10; * @author ChuanFu&#10; * @version V1.0&#10; * @description:&#10; * @contact: 525491994&#10; * @date $date$&#10; * @Copyright 该项目由宏伟数科版权所有，未经过允许的情况下，私自分享视频和源码属于违法行为。&#10; */" description="add comments for class" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
