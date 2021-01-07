@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="李晓擎" />
+      <item value="l" />
       <item value="This can be the class name or a primitive" />
       <item value="The data type of the parameter." />
       <item value="The parameter type of the parameter." />
@@ -55,8 +57,6 @@
       <item value="Endpoint ID 'nacos-config' contains invalid characters, please migrate to a valid format." />
       <item value="error while receiving push data" />
       <item value="The web application [ROOT] appears to have started a thread named [RxIoScheduler-1 (Evictor)] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:" />
-      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'com.unicorn.common.log.LogAutoConfiguration': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.unicorn.system.feign.sysoperlog.SysOperLogFeignApi': FactoryBean threw exception on object creation; nested exception is java.lang.IllegalStateException: No fallbackFactory instance of type class com.unicorn.system.feign.sysoperlog.factory.SysOperLogFeignApiFallbackFactory found for feign client sysoperlogfeignapi" />
-      <item value="[com.unicorn.product.mapper.CustomerLevelMapper.insert] Has been loaded by XML or SqlProvider or Mybatis's Annotation, so ignoring this injection for [class com.baomidou.mybatisplus.core.injector.methods.Insert]" />
     </histories>
     <option name="languageScores">
       <map>
