@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ALTER command denied to user" />
       <item value="(Optional) The scale for a decimal (exact numeric) column. (Applies only if a decimal column is used.)" />
       <item value="(Optional) The precision for a decimal (exact numeric) column. (Applies only if a decimal column is used.) Value must be set by developer if used when generating the DDL for the column." />
       <item value="precision" />
@@ -56,18 +57,17 @@
       <item value="库存" />
       <item value="库存&#10;" />
       <item value="select" />
-      <item value="Indicates that an annotation type is automatically inherited. If an Inherited meta-annotation is present on an annotation type declaration, and the user queries the annotation type on a class declaration, and the class declaration has no annotation for this type, then the class's superclass will automatically be queried for the annotation type. This process will be repeated until an annotation for this type is found, or the top of the class hierarchy (Object) is reached. If no superclass has an annotation for this type, then the query will indicate that the class in question has no such annotation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609899625620" />
+    <option name="lastTrimTime" value="1610343902642" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
