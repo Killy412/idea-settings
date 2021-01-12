@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the number of processors available to the Java virtual machine." />
+      <item value="Shot" />
+      <item value="Creates a thread pool that maintains enough threads to support the given parallelism level, and may use multiple queues to reduce contention. The parallelism level corresponds to the maximum number of threads actively engaged in, or available to engage in, task processing. The actual number of threads may grow and shrink dynamically. A work-stealing pool makes no guarantees about the order in which submitted tasks are executed." />
       <item value="weak&#10;" />
       <item value="Default implementation of the {@link org.springframework.beans.factory.ListableBeanFactory} and {@link BeanDefinitionRegistry} interfaces: a full-fledged bean factory based on bean definition objects." />
       <item value="ALTER command denied to user" />
@@ -54,14 +57,11 @@
       <item value="an absolute URL or resolvable hostname (the protocol is optional)." />
       <item value="Lifecycle" />
       <item value="An annotation to create utility classes." />
-      <item value="Dependency is duplicated in file(s):" />
-      <item value="Consider defining a bean of type 'org.springframework.http.codec.ServerCodecConfigurer' in your configuration." />
-      <item value="库存" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
