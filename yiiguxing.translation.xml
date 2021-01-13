@@ -2,11 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="620" />
-    <option name="newTranslationDialogWidth" value="808" />
+    <option name="newTranslationDialogWidth" value="806" />
     <option name="newTranslationDialogX" value="423" />
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="添加水印" />
+      <item value="添加" />
       <item value="A {@link ThreadPoolExecutor} that can additionally schedule commands to run after a given delay, or to execute periodically. This class is preferable to {@link java.util.Timer} when multiple worker threads are needed, or when the additional flexibility or capabilities of {@link ThreadPoolExecutor} (which this class extends) are required." />
       <item value="Creates a new {@code ScheduledThreadPoolExecutor} with the given initial parameters." />
       <item value="Termination" />
@@ -55,8 +57,6 @@
       <item value="Circuit Breaker" />
       <item value="Discovery" />
       <item value="Annotation to enable a DiscoveryClient implementation." />
-      <item value="属性&#10;" />
-      <item value="processing" />
     </histories>
     <option name="languageScores">
       <map>
