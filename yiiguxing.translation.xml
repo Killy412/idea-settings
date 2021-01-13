@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A hint to the scheduler that the current thread is willing to yield its current use of a processor. The scheduler is free to ignore this hint." />
       <item value="脚本" />
       <item value="执行" />
       <item value="添加水印" />
@@ -56,12 +57,11 @@
       <item value="injection" />
       <item value="dependency injection" />
       <item value="Invoke factory processors registered as beans in the context." />
-      <item value="Circuit Breaker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
