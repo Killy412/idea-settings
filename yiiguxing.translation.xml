@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="the destination array." />
+      <item value="Increments modCount!!" />
       <item value="Increases the capacity of this &lt;tt&gt;ArrayList&lt;tt&gt; instance, if necessary, to ensure that it can hold at least the number of elements specified by the minimum capacity argument." />
       <item value="Internal" />
       <item value="Thrown to indicate that a method has been passed an illegal or inappropriate argument." />
@@ -55,13 +57,11 @@
       <item value="The data type of the parameter." />
       <item value="The parameter type of the parameter." />
       <item value="Adds the ability to override the detected type" />
-      <item value="A brief description of the parameter." />
-      <item value="Name of the parameter." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
