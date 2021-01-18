@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Thrown to indicate that a method has been passed an illegal or inappropriate argument." />
+      <item value="The array buffer into which the elements of the ArrayList are stored. The capacity of the ArrayList is the length of this array buffer. Any empty ArrayList with elementData == DEFAULTCAPACITY_EMPTY_ELEMENTDATA will be expanded to DEFAULT_CAPACITY when the first element is added." />
+      <item value="Pointer to first node." />
+      <item value="The size of the ArrayList (the number of elements it contains)." />
+      <item value="The number of times this list has been &lt;i&gt;structurally modified&lt;i&gt;. Structural modifications are those that change the size of the list, or otherwise perturb it in such a fashion that iterations in progress may yield incorrect results." />
       <item value="list" />
       <item value="Appends the specified element to the end of this list." />
       <item value="Increments modCount!" />
@@ -52,16 +57,11 @@
       <item value="Name of the parameter." />
       <item value="non-compatible bean definition of same name and class" />
       <item value="Invoke factory processors registered as beans in the context" />
-      <item value="VALID" />
-      <item value="Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.unicorn.product.ProductApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'productCategoryRelServiceImpl' for bean class [com.unicorn.product.service.productcategoryrel.impl.ProductCategoryRelServiceImpl] conflicts with existing, non-compatible bean definition of same name and class [com.unicorn.product.service.ProductCategoryRelServiceImpl]" />
-      <item value="match" />
-      <item value="igonre&#10;" />
-      <item value="ignore&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
