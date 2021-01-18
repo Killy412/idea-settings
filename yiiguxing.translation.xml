@@ -2,11 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="620" />
-    <option name="newTranslationDialogWidth" value="806" />
+    <option name="newTranslationDialogWidth" value="356" />
     <option name="newTranslationDialogX" value="423" />
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="删除本地临时文件" />
+      <item value="删除本地临时" />
+      <item value="删除本地" />
+      <item value="删除" />
       <item value="the destination array." />
       <item value="Increments modCount!!" />
       <item value="Increases the capacity of this &lt;tt&gt;ArrayList&lt;tt&gt; instance, if necessary, to ensure that it can hold at least the number of elements specified by the minimum capacity argument." />
@@ -53,10 +57,6 @@
       <item value="product" />
       <item value="李晓擎" />
       <item value="l" />
-      <item value="This can be the class name or a primitive" />
-      <item value="The data type of the parameter." />
-      <item value="The parameter type of the parameter." />
-      <item value="Adds the ability to override the detected type" />
     </histories>
     <option name="languageScores">
       <map>
