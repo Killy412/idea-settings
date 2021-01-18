@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Adds the specified element as the tail (last element) of this list." />
+      <item value="Queue" />
+      <item value="deque&#10;" />
+      <item value="Links e as last element." />
       <item value="Increases the capacity of this &lt;tt&gt;ArrayList&lt;tt&gt; instance, if necessary, to ensure that it can hold at least the number of elements specified by the minimum capacity argument." />
       <item value="Increases the capacity to ensure that it can hold at least the number of elements specified by the minimum capacity argument." />
       <item value="删除本地临时文件" />
@@ -53,15 +57,11 @@
       <item value="最高差异率" />
       <item value="最高差异" />
       <item value="最高差异了" />
-      <item value="最高" />
-      <item value="category" />
-      <item value="product" />
-      <item value="李晓擎" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
