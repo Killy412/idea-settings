@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Increases the capacity of this &lt;tt&gt;ArrayList&lt;tt&gt; instance, if necessary, to ensure that it can hold at least the number of elements specified by the minimum capacity argument." />
       <item value="Increases the capacity to ensure that it can hold at least the number of elements specified by the minimum capacity argument." />
       <item value="删除本地临时文件" />
       <item value="删除本地临时" />
@@ -14,7 +15,6 @@
       <item value="删除" />
       <item value="the destination array." />
       <item value="Increments modCount!!" />
-      <item value="Increases the capacity of this &lt;tt&gt;ArrayList&lt;tt&gt; instance, if necessary, to ensure that it can hold at least the number of elements specified by the minimum capacity argument." />
       <item value="Internal" />
       <item value="Thrown to indicate that a method has been passed an illegal or inappropriate argument." />
       <item value="The array buffer into which the elements of the ArrayList are stored. The capacity of the ArrayList is the length of this array buffer. Any empty ArrayList with elementData == DEFAULTCAPACITY_EMPTY_ELEMENTDATA will be expanded to DEFAULT_CAPACITY when the first element is added." />
@@ -60,8 +60,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="154" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
