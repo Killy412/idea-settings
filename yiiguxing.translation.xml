@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Increases the capacity to ensure that it can hold at least the number of elements specified by the minimum capacity argument." />
       <item value="删除本地临时文件" />
       <item value="删除本地临时" />
       <item value="删除本地" />
@@ -56,12 +57,11 @@
       <item value="category" />
       <item value="product" />
       <item value="李晓擎" />
-      <item value="l" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="155" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
