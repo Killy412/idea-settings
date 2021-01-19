@@ -1,12 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="620" />
-    <option name="newTranslationDialogWidth" value="356" />
+    <option name="newTranslationDialogHeight" value="570" />
+    <option name="newTranslationDialogWidth" value="947" />
     <option name="newTranslationDialogX" value="423" />
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="lt" />
+      <item value="gt" />
+      <item value="gt&#10;" />
       <item value="banana And Apple" />
       <item value="Retrieves, but does not remove, the head (first element) of this list." />
       <item value="Adds the specified element as the tail (last element) of this list." />
@@ -54,9 +57,6 @@
       <item value="(Optional) The scale for a decimal (exact numeric) column. (Applies only if a decimal column is used.)" />
       <item value="(Optional) The precision for a decimal (exact numeric) column. (Applies only if a decimal column is used.) Value must be set by developer if used when generating the DDL for the column." />
       <item value="precision" />
-      <item value="(Optional) The column length. (Applies only if a string-valued column is used.)" />
-      <item value="最低&#10;" />
-      <item value="最高差异率" />
     </histories>
     <option name="languageScores">
       <map>
