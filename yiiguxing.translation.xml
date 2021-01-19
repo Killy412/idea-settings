@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="promotion" />
       <item value="lt" />
       <item value="gt" />
       <item value="gt&#10;" />
@@ -56,12 +57,11 @@
       <item value="ALTER command denied to user" />
       <item value="(Optional) The scale for a decimal (exact numeric) column. (Applies only if a decimal column is used.)" />
       <item value="(Optional) The precision for a decimal (exact numeric) column. (Applies only if a decimal column is used.) Value must be set by developer if used when generating the DDL for the column." />
-      <item value="precision" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
