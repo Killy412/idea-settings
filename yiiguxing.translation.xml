@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="570" />
-    <option name="newTranslationDialogWidth" value="945" />
+    <option name="newTranslationDialogHeight" value="542" />
+    <option name="newTranslationDialogWidth" value="356" />
     <option name="newTranslationDialogX" value="423" />
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="promotion&#10;" />
       <item value="我会提醒你" />
       <item value="我会提醒" />
       <item value="我会" />
@@ -56,7 +57,6 @@
       <item value="An unbounded {@linkplain BlockingQueue blocking queue} of {@code Delayed} elements, in which an element can only be taken when its delay has expired. The &lt;em&gt;head&lt;em&gt; of the queue is that {@code Delayed} element whose delay expired furthest in the past. If no delay has expired there is no head and {@code poll} will return {@code null}. Expiration occurs when an element's {@code getDelay(TimeUnit.NANOSECONDS)} method returns a value less than or equal to zero. Even though unexpired elements cannot be removed using {@code take} or {@code poll}, they are otherwise treated as normal elements. For example, the {@code size} method returns the count of both expired and unexpired elements. This queue does not permit null elements." />
       <item value="截图&#10;" />
       <item value="Returns the number of processors available to the Java virtual machine." />
-      <item value="Shot" />
     </histories>
     <option name="languageScores">
       <map>
