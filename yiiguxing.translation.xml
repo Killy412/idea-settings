@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="我会提醒你" />
+      <item value="我会提醒" />
+      <item value="我会" />
+      <item value="提醒&#10;" />
       <item value="agreement&#10;" />
       <item value="ag" />
       <item value="promotion" />
@@ -53,10 +57,6 @@
       <item value="截图&#10;" />
       <item value="Returns the number of processors available to the Java virtual machine." />
       <item value="Shot" />
-      <item value="Creates a thread pool that maintains enough threads to support the given parallelism level, and may use multiple queues to reduce contention. The parallelism level corresponds to the maximum number of threads actively engaged in, or available to engage in, task processing. The actual number of threads may grow and shrink dynamically. A work-stealing pool makes no guarantees about the order in which submitted tasks are executed." />
-      <item value="weak&#10;" />
-      <item value="Default implementation of the {@link org.springframework.beans.factory.ListableBeanFactory} and {@link BeanDefinitionRegistry} interfaces: a full-fledged bean factory based on bean definition objects." />
-      <item value="ALTER command denied to user" />
     </histories>
     <option name="languageScores">
       <map>
