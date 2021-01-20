@@ -2,11 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="570" />
-    <option name="newTranslationDialogWidth" value="947" />
+    <option name="newTranslationDialogWidth" value="945" />
     <option name="newTranslationDialogX" value="423" />
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="agreement&#10;" />
+      <item value="ag" />
       <item value="promotion" />
       <item value="lt" />
       <item value="gt" />
@@ -55,8 +57,6 @@
       <item value="weak&#10;" />
       <item value="Default implementation of the {@link org.springframework.beans.factory.ListableBeanFactory} and {@link BeanDefinitionRegistry} interfaces: a full-fledged bean factory based on bean definition objects." />
       <item value="ALTER command denied to user" />
-      <item value="(Optional) The scale for a decimal (exact numeric) column. (Applies only if a decimal column is used.)" />
-      <item value="(Optional) The precision for a decimal (exact numeric) column. (Applies only if a decimal column is used.) Value must be set by developer if used when generating the DDL for the column." />
     </histories>
     <option name="languageScores">
       <map>
