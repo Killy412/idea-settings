@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="prifilege" />
+      <item value="promotion" />
       <item value="less&#10;" />
       <item value="privilege&#10;" />
       <item value="privil" />
@@ -22,7 +24,6 @@
       <item value="提醒&#10;" />
       <item value="agreement&#10;" />
       <item value="ag" />
-      <item value="promotion" />
       <item value="lt" />
       <item value="gt" />
       <item value="gt&#10;" />
@@ -56,12 +57,12 @@
       <item value="脚本" />
       <item value="执行" />
       <item value="添加水印" />
-      <item value="添加" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="165" />
+        <entry key="ENGLISH" value="165" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
