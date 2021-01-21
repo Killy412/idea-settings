@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="149" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Freight&quot;" />
       <item value="prifilege" />
       <item value="promotion" />
       <item value="less&#10;" />
@@ -56,12 +57,11 @@
       <item value="A hint to the scheduler that the current thread is willing to yield its current use of a processor. The scheduler is free to ignore this hint." />
       <item value="脚本" />
       <item value="执行" />
-      <item value="添加水印" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="ENGLISH" value="166" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
       </map>
