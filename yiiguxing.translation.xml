@@ -2,11 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="514" />
-    <option name="newTranslationDialogWidth" value="456" />
-    <option name="newTranslationDialogX" value="423" />
-    <option name="newTranslationDialogY" value="149" />
+    <option name="newTranslationDialogWidth" value="454" />
+    <option name="newTranslationDialogX" value="859" />
+    <option name="newTranslationDialogY" value="156" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Interactive" />
+      <item value="inteactive" />
+      <item value="intea" />
+      <item value="in" />
+      <item value="Inteactive" />
       <item value="privilege" />
       <item value="Freight&quot;" />
       <item value="prifilege" />
@@ -52,16 +57,12 @@
       <item value="list" />
       <item value="Appends the specified element to the end of this list." />
       <item value="Increments modCount!" />
-      <item value="Increments modCount" />
-      <item value="Annotation that identifies methods which initialize the {@link org.springframework.web.bind.WebDataBinder} which will be used for populating command and form object arguments of annotated handler methods." />
-      <item value="which" />
-      <item value="A hint to the scheduler that the current thread is willing to yield its current use of a processor. The scheduler is free to ignore this hint." />
-      <item value="脚本" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
+        <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
       </map>
