@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="156" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Endpoint ID 'nacos-discovery' contains invalid characters, please migrate to a valid format." />
+      <item value="migrate" />
       <item value="inteactive" />
       <item value="intea" />
       <item value="Interactive" />
@@ -55,13 +57,11 @@
       <item value="The size of the ArrayList (the number of elements it contains)." />
       <item value="The number of times this list has been &lt;i&gt;structurally modified&lt;i&gt;. Structural modifications are those that change the size of the list, or otherwise perturb it in such a fashion that iterations in progress may yield incorrect results." />
       <item value="list" />
-      <item value="Appends the specified element to the end of this list." />
-      <item value="Increments modCount!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1610933794764" />
+    <option name="lastTrimTime" value="1611388657233" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
