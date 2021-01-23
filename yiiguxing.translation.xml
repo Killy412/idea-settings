@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Enhancer" />
       <item value="predicate&#10;" />
       <item value="ant&#10;" />
       <item value="This will be used as the bean name instead of name if present, but will not be used as a service id." />
@@ -56,12 +57,11 @@
       <item value="删除本地" />
       <item value="删除" />
       <item value="the destination array." />
-      <item value="Increments modCount!!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
