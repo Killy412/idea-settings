@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="156" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="refresh&#10;" />
+      <item value="re&#10;fresh&#10;" />
+      <item value="fresh&#10;" />
+      <item value="refre" />
       <item value="Endpoint ID 'nacos-discovery' contains invalid characters, please migrate to a valid format." />
       <item value="migrate" />
       <item value="inteactive" />
@@ -53,10 +57,6 @@
       <item value="Internal" />
       <item value="Thrown to indicate that a method has been passed an illegal or inappropriate argument." />
       <item value="The array buffer into which the elements of the ArrayList are stored. The capacity of the ArrayList is the length of this array buffer. Any empty ArrayList with elementData == DEFAULTCAPACITY_EMPTY_ELEMENTDATA will be expanded to DEFAULT_CAPACITY when the first element is added." />
-      <item value="Pointer to first node." />
-      <item value="The size of the ArrayList (the number of elements it contains)." />
-      <item value="The number of times this list has been &lt;i&gt;structurally modified&lt;i&gt;. Structural modifications are those that change the size of the list, or otherwise perturb it in such a fashion that iterations in progress may yield incorrect results." />
-      <item value="list" />
     </histories>
     <option name="languageScores">
       <map>
