@@ -1,12 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="514" />
-    <option name="newTranslationDialogWidth" value="454" />
+    <option name="newTranslationDialogHeight" value="503" />
+    <option name="newTranslationDialogWidth" value="452" />
     <option name="newTranslationDialogX" value="859" />
-    <option name="newTranslationDialogY" value="156" />
+    <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="predicate&#10;" />
+      <item value="ant&#10;" />
       <item value="This will be used as the bean name instead of name if present, but will not be used as a service id." />
       <item value="refresh&#10;" />
       <item value="re&#10;fresh&#10;" />
@@ -55,8 +57,6 @@
       <item value="删除" />
       <item value="the destination array." />
       <item value="Increments modCount!!" />
-      <item value="Internal" />
-      <item value="Thrown to indicate that a method has been passed an illegal or inappropriate argument." />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,5 +77,6 @@
         <option name="appId" value="20200306000393838" />
       </app-key>
     </option>
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
