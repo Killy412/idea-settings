@@ -7,6 +7,15 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="inteactive" />
+      <item value="inteActive" />
+      <item value="interActive" />
+      <item value="interActivb" />
+      <item value="interAc" />
+      <item value="interA" />
+      <item value="inter" />
+      <item value="inte" />
+      <item value="inte&#10;" />
       <item value="divide" />
       <item value="method the {@code Method} instance corresponding to the interface method invoked on the proxy instance. The declaring class of the {@code Method} object will be the interface that the method was declared in, which may be a superinterface of the proxy interface that the proxy class inherits the method through." />
       <item value="proxy the proxy instance that the method was invoked on" />
@@ -32,7 +41,6 @@
       <item value="refre" />
       <item value="Endpoint ID 'nacos-discovery' contains invalid characters, please migrate to a valid format." />
       <item value="migrate" />
-      <item value="inteactive" />
       <item value="intea" />
       <item value="Interactive" />
       <item value="in" />
@@ -49,14 +57,6 @@
       <item value="PRI" />
       <item value="P" />
       <item value="promotion&#10;" />
-      <item value="promo" />
-      <item value="我会提醒你" />
-      <item value="我会提醒" />
-      <item value="我会" />
-      <item value="提醒&#10;" />
-      <item value="agreement&#10;" />
-      <item value="ag" />
-      <item value="lt" />
     </histories>
     <option name="languageScores">
       <map>
