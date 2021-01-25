@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="divide" />
       <item value="method the {@code Method} instance corresponding to the interface method invoked on the proxy instance. The declaring class of the {@code Method} object will be the interface that the method was declared in, which may be a superinterface of the proxy interface that the proxy class inherits the method through." />
       <item value="proxy the proxy instance that the method was invoked on" />
       <item value="the proxy instance that the method was invoked on" />
@@ -56,12 +57,11 @@
       <item value="agreement&#10;" />
       <item value="ag" />
       <item value="lt" />
-      <item value="gt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
