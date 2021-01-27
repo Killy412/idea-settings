@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="service" />
+      <item value="serve" />
+      <item value="server" />
       <item value="Coupon" />
       <item value="Returns a {@code BigDecimal} whose value is {@code (this divisor)}, and whose preferred scale is {@code (this.scale() - divisor.scale())}; if the exact quotient cannot be represented (because it has a non-terminating decimal expansion) an {@code ArithmeticException} is thrown." />
       <item value="The value may indicate a suggestion for a logical component name, to be turned into a Spring bean in case of an autodetected component. @return the suggested component name, if any (or empty String otherwise)" />
@@ -54,9 +57,6 @@
       <item value="Inteactive" />
       <item value="privilege" />
       <item value="Freight&quot;" />
-      <item value="prifilege" />
-      <item value="promotion" />
-      <item value="less&#10;" />
     </histories>
     <option name="languageScores">
       <map>
