@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The last packet successfully received from the server was 2,354,931 milliseconds ago." />
+      <item value="received" />
       <item value="service" />
       <item value="serve" />
       <item value="server" />
@@ -55,13 +57,11 @@
       <item value="Interactive" />
       <item value="in" />
       <item value="Inteactive" />
-      <item value="privilege" />
-      <item value="Freight&quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
