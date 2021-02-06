@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="discovery" />
       <item value="depend" />
       <item value="volumes" />
       <item value="provider" />
@@ -56,12 +57,11 @@
       <item value="ant&#10;" />
       <item value="This will be used as the bean name instead of name if present, but will not be used as a service id." />
       <item value="refresh&#10;" />
-      <item value="re&#10;fresh&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
