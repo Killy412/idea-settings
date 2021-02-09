@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="0" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Please check the cluster status" />
       <item value="please make sure registry config correct" />
       <item value="The class hierarchy was loaded from the following locations:" />
       <item value="discovery" />
@@ -56,12 +57,11 @@
       <item value="reflect" />
       <item value="Enhancer" />
       <item value="predicate&#10;" />
-      <item value="ant&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
