@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="correct" />
       <item value="seata&#10;" />
       <item value="Please check the cluster status" />
       <item value="please make sure registry config correct" />
@@ -56,12 +57,11 @@
       <item value="sho" />
       <item value="soccer&#10;" />
       <item value="reflect" />
-      <item value="Enhancer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
