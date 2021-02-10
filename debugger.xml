@@ -424,6 +424,11 @@
       <option name="ON_DEMAND" value="true" />
     </Renderer>
   </component>
+  <component name="ThreadsViewSettings">
+    <option name="SHOW_THREAD_GROUPS" value="true" />
+    <option name="SHOW_SOURCE_NAME" value="true" />
+    <option name="SHOW_ARGUMENTS_TYPES" value="true" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
