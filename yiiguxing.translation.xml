@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ThreadLocalMap is a customized hash map suitable only for maintaining thread local values. No operations are exported outside of the ThreadLocal class. The class is package private to allow declaration of fields in class Thread. To help deal with very large and long-lived usages, the hash table entries use WeakReferences for keys. However, since reference queues are not used, stale entries are guaranteed to be removed only when the table starts running out of space." />
       <item value="correct" />
       <item value="seata&#10;" />
       <item value="Please check the cluster status" />
@@ -56,12 +57,11 @@
       <item value="show&#10;" />
       <item value="sho" />
       <item value="soccer&#10;" />
-      <item value="reflect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
