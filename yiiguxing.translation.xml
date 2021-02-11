@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Acquires a permit from this semaphore, blocking until one is available, or the thread is {@linkplain Threadinterrupt interrupted}." />
       <item value="Walkthrough: 1. If read count nonzero or write count nonzero and owner is a different thread, fail. 2. If count would saturate, fail. (This can only happen if count is already nonzero.) 3. Otherwise, this thread is eligible for lock if it is either a reentrant acquire or queue policy allows it. If so, update state and set owner." />
       <item value="Release" />
       <item value="Decrements the count of the latch, releasing all waiting threads if the count reaches zero. &lt;p&gt;If the current count is greater than zero then it is decremented. If the new count is zero then all waiting threads are re-enabled for thread scheduling purposes. &lt;p&gt;If the current count equals zero then nothing happens." />
@@ -56,12 +57,11 @@
       <item value="the proxy instance that the method was invoked on" />
       <item value="&lt;p&gt;Each proxy instance has an associated invocation handler. When a method is invoked on a proxy instance, the method invocation is encoded and dispatched to the {@code invoke} method of its invocation handler." />
       <item value="When a method is invoked on a proxy instance" />
-      <item value="an associated invocation handler." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="207" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
