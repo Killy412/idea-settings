@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Release" />
+      <item value="Decrements the count of the latch, releasing all waiting threads if the count reaches zero. &lt;p&gt;If the current count is greater than zero then it is decremented. If the new count is zero then all waiting threads are re-enabled for thread scheduling purposes. &lt;p&gt;If the current count equals zero then nothing happens." />
       <item value="Head of the wait queue, lazily initialized. Except for initialization, it is modified only via method setHead. Note: If head exists, its waitStatus is guaranteed not to be CANCELLED." />
       <item value="The synchronization state." />
       <item value="head" />
@@ -55,13 +57,11 @@
       <item value="When a method is invoked on a proxy instance" />
       <item value="an associated invocation handler." />
       <item value="{@code InvocationHandler} is the interface implemented by the &lt;i&gt;invocation handler&lt;i&gt; of a proxy instance." />
-      <item value="blog&#10;" />
-      <item value="shower" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="204" />
+        <entry key="ENGLISH" value="205" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
