@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Specify whether {@code @Bean} methods should get proxied in order to enforce bean lifecycle behavior, e.g. to return shared singleton bean instances even in case of direct {@code @Bean} method calls in user code. This feature requires method interception, implemented through a runtime-generated CGLIB subclass which comes with limitations such as the configuration class and its methods not being allowed to declare {@code final}. &lt;p&gt;The default is {@code true}, allowing for 'inter-bean references' via direct method calls within the configuration class as well as for external calls to this configuration's {@code @Bean} methods, e.g. from another configuration class. If this is not needed since each of this particular configuration's {@code @Bean} methods is self-contained and designed as a plain factory method for container use, switch this flag to {@code false} in order to avoid CGLIB subclass processing. &lt;p&gt;Turning off bean method interception effectively processes {@code @Bean} methods individually like when declared on non-{@code @Configuration} classes, a.k.a. &quot;@Bean Lite Mode&quot; (see {@link Bean @Bean's javadoc}). It is therefore behaviorally equivalent to removing the {@code @Configuration} stereotype." />
       <item value="Acquires a permit from this semaphore, blocking until one is available, or the thread is {@linkplain Threadinterrupt interrupted}." />
       <item value="Walkthrough: 1. If read count nonzero or write count nonzero and owner is a different thread, fail. 2. If count would saturate, fail. (This can only happen if count is already nonzero.) 3. Otherwise, this thread is eligible for lock if it is either a reentrant acquire or queue policy allows it. If so, update state and set owner." />
       <item value="Release" />
@@ -56,12 +57,11 @@
       <item value="proxy the proxy instance that the method was invoked on" />
       <item value="the proxy instance that the method was invoked on" />
       <item value="&lt;p&gt;Each proxy instance has an associated invocation handler. When a method is invoked on a proxy instance, the method invocation is encoded and dispatched to the {@code invoke} method of its invocation handler." />
-      <item value="When a method is invoked on a proxy instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="CHINESE" value="207" />
+        <entry key="ENGLISH" value="208" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
