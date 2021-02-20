@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Should the registered urls be built with server.address or with hostname." />
+      <item value="Circuit Breaker" />
       <item value="Protection" />
       <item value="Filter" />
       <item value="cost" />
@@ -55,13 +57,11 @@
       <item value="interActivb" />
       <item value="interAc" />
       <item value="interA" />
-      <item value="inter" />
-      <item value="inte" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="CHINESE" value="214" />
+        <entry key="ENGLISH" value="215" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
