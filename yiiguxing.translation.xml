@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Filter" />
       <item value="cost" />
       <item value="Balanced" />
       <item value="Factory class used to customize the retry functionality throughout Spring Cloud." />
@@ -56,12 +57,11 @@
       <item value="inter" />
       <item value="inte" />
       <item value="inte&#10;" />
-      <item value="method the {@code Method} instance corresponding to the interface method invoked on the proxy instance. The declaring class of the {@code Method} object will be the interface that the method was declared in, which may be a superinterface of the proxy interface that the proxy class inherits the method through." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="CHINESE" value="211" />
+        <entry key="ENGLISH" value="212" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
