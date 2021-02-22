@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="the parameterized type of the destination Map object" />
+      <item value="the parameterized type of the source Map object" />
       <item value="Rainbowify big files is disabled by default: File with line count &gt; 1000 will not rainbowify be default." />
       <item value="Should the registered urls be built with server.address or with hostname." />
       <item value="Circuit Breaker" />
@@ -55,13 +57,11 @@
       <item value="inteactive" />
       <item value="inteActive" />
       <item value="interActive" />
-      <item value="interActivb" />
-      <item value="interAc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
