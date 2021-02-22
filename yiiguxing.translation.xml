@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Rainbowify big files is disabled by default: File with line count &gt; 1000 will not rainbowify be default." />
       <item value="Should the registered urls be built with server.address or with hostname." />
       <item value="Circuit Breaker" />
       <item value="Protection" />
@@ -56,12 +57,11 @@
       <item value="interActive" />
       <item value="interActivb" />
       <item value="interAc" />
-      <item value="interA" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="215" />
+        <entry key="ENGLISH" value="216" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
