@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="recommend" />
       <item value="the parameterized type of the destination Map object" />
       <item value="the parameterized type of the source Map object" />
       <item value="Rainbowify big files is disabled by default: File with line count &gt; 1000 will not rainbowify be default." />
@@ -56,12 +57,11 @@
       <item value="rules&#10;" />
       <item value="inteactive" />
       <item value="inteActive" />
-      <item value="interActive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613698631655" />
+    <option name="lastTrimTime" value="1614134531336" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
