@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="register-Dockerfile" type="AUTO_DETECTED" />
       <mapping pattern="monitor-Dockerfile" type="AUTO_DETECTED" />
       <mapping pattern="sentinel-Dockerfile" type="AUTO_DETECTED" />
+      <mapping pattern="gateway-Dockerfile" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".name" type="PLAIN_TEXT" />
