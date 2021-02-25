@@ -9,6 +9,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".name" type="PLAIN_TEXT" />
       <mapping pattern="bredisbak_for_init" type="PLAIN_TEXT" />
+      <mapping pattern="job-admin-Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
