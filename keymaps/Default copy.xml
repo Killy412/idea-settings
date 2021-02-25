@@ -2,6 +2,9 @@
   <action id="$ShowTranslationDialogAction">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="ActivateAlibabaCloudViewToolWindow">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="ActivateCodotaToolWindow">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
