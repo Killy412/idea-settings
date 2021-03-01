@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="protection" />
       <item value="Indicates one or more &lt;em&gt;component classes&lt;em&gt; to import &amp;mdash; typically" />
       <item value="A load balancer rule that filters out servers that: &lt;ul&gt; &lt;li&gt; are in circuit breaker tripped state due to consecutive connection or read failures, or&lt;li&gt; &lt;li&gt; have active connections that exceeds a configurable limit (default is Integer.MAX_VALUE).&lt;li&gt; &lt;ul&gt; The property to change this limit is &lt;pre&gt;{@code &lt;clientName&gt;.&lt;nameSpace&gt;.ActiveConnectionsLimit }&lt;pre&gt;" />
       <item value="The most well known and basic load balancing strategy, i.e. Round Robin Rule." />
@@ -56,12 +57,11 @@
       <item value="Returns a {@code BigDecimal} whose value is {@code (this divisor)}, and whose preferred scale is {@code (this.scale() - divisor.scale())}; if the exact quotient cannot be represented (because it has a non-terminating decimal expansion) an {@code ArithmeticException} is thrown." />
       <item value="The value may indicate a suggestion for a logical component name, to be turned into a Spring bean in case of an autodetected component. @return the suggested component name, if any (or empty String otherwise)" />
       <item value="divide" />
-      <item value="multiply" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="CHINESE" value="225" />
+        <entry key="ENGLISH" value="226" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
