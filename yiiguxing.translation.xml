@@ -7,9 +7,11 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="下架" />
+      <item value="下架人" />
+      <item value="下架人&#10;" />
       <item value="ids for this class must be manually assigned before calling save()" />
       <item value="shelf" />
-      <item value="下架" />
       <item value="下架&#10;" />
       <item value="tool" />
       <item value="protection" />
@@ -55,8 +57,6 @@
       <item value="分布式&#10;" />
       <item value="The last packet successfully received from the server was 2,354,931 milliseconds ago." />
       <item value="received" />
-      <item value="service" />
-      <item value="serve" />
     </histories>
     <option name="languageScores">
       <map>
