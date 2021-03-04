@@ -7,6 +7,12 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns {@code true} if the element &lt;i&gt;might&lt;i&gt; have been put in this Bloom filter, {@code false} if this is &lt;i&gt;definitely&lt;i&gt; not the case." />
+      <item value="See &quot;Less Hashing, Same Performance: Building a Better Bloom Filter&quot; by Adam Kirsch and Michael Mitzenmacher. The paper argues that this trick doesn't significantly deteriorate the performance of a Bloom filter (yet only needs two 32bit hash functions)." />
+      <item value="Signifies that a public API (public class, method or field) is subject to incompatible changes, or even removal, in a future release. An API bearing this annotation is exempt from any compatibility guarantees made by its containing library. Note that the presence of this annotation implies nothing about the quality or performance of the API in question, only the fact that it is not &quot;API-frozen.&quot;" />
+      <item value="funnel the funnel of T's that the constructed {@code BloomFilter} will use" />
+      <item value="the desired false positive probability (must be positive and less than 1.0)" />
+      <item value="expected" />
       <item value="拼接条件" />
       <item value="拼接" />
       <item value="Set the first row to retrieve. If not set, rows will be retrieved beginnning from row &lt;tt&gt;0&lt;tt&gt;. @param firstResult a row number, numbered from &lt;tt&gt;0&lt;tt&gt;" />
@@ -51,17 +57,11 @@
       <item value="The class hierarchy was loaded from the following locations:" />
       <item value="discovery" />
       <item value="depend" />
-      <item value="volumes" />
-      <item value="provider" />
-      <item value="obtain" />
-      <item value="circuit" />
-      <item value="微服务" />
-      <item value="微服务&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
