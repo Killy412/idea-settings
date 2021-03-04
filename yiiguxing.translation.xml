@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Distributed implementation of Bloom filter based on Highway 128-bit hash." />
       <item value="Returns {@code true} if the element &lt;i&gt;might&lt;i&gt; have been put in this Bloom filter, {@code false} if this is &lt;i&gt;definitely&lt;i&gt; not the case." />
       <item value="See &quot;Less Hashing, Same Performance: Building a Better Bloom Filter&quot; by Adam Kirsch and Michael Mitzenmacher. The paper argues that this trick doesn't significantly deteriorate the performance of a Bloom filter (yet only needs two 32bit hash functions)." />
       <item value="Signifies that a public API (public class, method or field) is subject to incompatible changes, or even removal, in a future release. An API bearing this annotation is exempt from any compatibility guarantees made by its containing library. Note that the presence of this annotation implies nothing about the quality or performance of the API in question, only the fact that it is not &quot;API-frozen.&quot;" />
@@ -56,12 +57,11 @@
       <item value="please make sure registry config correct" />
       <item value="The class hierarchy was loaded from the following locations:" />
       <item value="discovery" />
-      <item value="depend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="235" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
