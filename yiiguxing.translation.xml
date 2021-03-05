@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="dummy&#10;" />
       <item value="Distributed implementation of Bloom filter based on Highway 128-bit hash." />
       <item value="Returns {@code true} if the element &lt;i&gt;might&lt;i&gt; have been put in this Bloom filter, {@code false} if this is &lt;i&gt;definitely&lt;i&gt; not the case." />
       <item value="See &quot;Less Hashing, Same Performance: Building a Better Bloom Filter&quot; by Adam Kirsch and Michael Mitzenmacher. The paper argues that this trick doesn't significantly deteriorate the performance of a Bloom filter (yet only needs two 32bit hash functions)." />
@@ -56,7 +57,6 @@
       <item value="Please check the cluster status" />
       <item value="please make sure registry config correct" />
       <item value="The class hierarchy was loaded from the following locations:" />
-      <item value="discovery" />
     </histories>
     <option name="languageScores">
       <map>
