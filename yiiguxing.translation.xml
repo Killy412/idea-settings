@@ -7,6 +7,17 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ratio" />
+      <item value="rate" />
+      <item value="手续费" />
+      <item value="terra" />
+      <item value="terrace&#10;" />
+      <item value="platform" />
+      <item value="plat" />
+      <item value="平台" />
+      <item value="状态" />
+      <item value="提现" />
+      <item value="提现&#10;" />
       <item value="斐波那契&#10;" />
       <item value="斐波那" />
       <item value="斐波" />
@@ -46,17 +57,6 @@
       <item value="Filter" />
       <item value="cost" />
       <item value="Balanced" />
-      <item value="Factory class used to customize the retry functionality throughout Spring Cloud." />
-      <item value="Specify whether {@code @Bean} methods should get proxied in order to enforce bean lifecycle behavior, e.g. to return shared singleton bean instances even in case of direct {@code @Bean} method calls in user code. This feature requires method interception, implemented through a runtime-generated CGLIB subclass which comes with limitations such as the configuration class and its methods not being allowed to declare {@code final}. &lt;p&gt;The default is {@code true}, allowing for 'inter-bean references' via direct method calls within the configuration class as well as for external calls to this configuration's {@code @Bean} methods, e.g. from another configuration class. If this is not needed since each of this particular configuration's {@code @Bean} methods is self-contained and designed as a plain factory method for container use, switch this flag to {@code false} in order to avoid CGLIB subclass processing. &lt;p&gt;Turning off bean method interception effectively processes {@code @Bean} methods individually like when declared on non-{@code @Configuration} classes, a.k.a. &quot;@Bean Lite Mode&quot; (see {@link Bean @Bean's javadoc}). It is therefore behaviorally equivalent to removing the {@code @Configuration} stereotype." />
-      <item value="Acquires a permit from this semaphore, blocking until one is available, or the thread is {@linkplain Threadinterrupt interrupted}." />
-      <item value="Walkthrough: 1. If read count nonzero or write count nonzero and owner is a different thread, fail. 2. If count would saturate, fail. (This can only happen if count is already nonzero.) 3. Otherwise, this thread is eligible for lock if it is either a reentrant acquire or queue policy allows it. If so, update state and set owner." />
-      <item value="Release" />
-      <item value="Decrements the count of the latch, releasing all waiting threads if the count reaches zero. &lt;p&gt;If the current count is greater than zero then it is decremented. If the new count is zero then all waiting threads are re-enabled for thread scheduling purposes. &lt;p&gt;If the current count equals zero then nothing happens." />
-      <item value="Head of the wait queue, lazily initialized. Except for initialization, it is modified only via method setHead. Note: If head exists, its waitStatus is guaranteed not to be CANCELLED." />
-      <item value="The synchronization state." />
-      <item value="head" />
-      <item value="tail" />
-      <item value="ThreadLocalMap is a customized hash map suitable only for maintaining thread local values. No operations are exported outside of the ThreadLocal class. The class is package private to allow declaration of fields in class Thread. To help deal with very large and long-lived usages, the hash table entries use WeakReferences for keys. However, since reference queues are not used, stale entries are guaranteed to be removed only when the table starts running out of space." />
     </histories>
     <option name="languageScores">
       <map>
