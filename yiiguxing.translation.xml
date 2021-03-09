@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="平安银行" />
+      <item value="平安" />
       <item value="账户" />
       <item value="a" />
       <item value="Third serial number" />
@@ -55,8 +57,6 @@
       <item value="下架&#10;" />
       <item value="tool" />
       <item value="protection" />
-      <item value="Indicates one or more &lt;em&gt;component classes&lt;em&gt; to import &amp;mdash; typically" />
-      <item value="A load balancer rule that filters out servers that: &lt;ul&gt; &lt;li&gt; are in circuit breaker tripped state due to consecutive connection or read failures, or&lt;li&gt; &lt;li&gt; have active connections that exceeds a configurable limit (default is Integer.MAX_VALUE).&lt;li&gt; &lt;ul&gt; The property to change this limit is &lt;pre&gt;{@code &lt;clientName&gt;.&lt;nameSpace&gt;.ActiveConnectionsLimit }&lt;pre&gt;" />
     </histories>
     <option name="languageScores">
       <map>
