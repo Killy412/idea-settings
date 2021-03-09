@@ -7,6 +7,12 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="支出" />
+      <item value="e" />
+      <item value="总支出" />
+      <item value="revenue" />
+      <item value="总收入" />
+      <item value="收入" />
       <item value="ratio" />
       <item value="rate" />
       <item value="手续费" />
@@ -51,12 +57,6 @@
       <item value="the parameterized type of the destination Map object" />
       <item value="the parameterized type of the source Map object" />
       <item value="Rainbowify big files is disabled by default: File with line count &gt; 1000 will not rainbowify be default." />
-      <item value="Should the registered urls be built with server.address or with hostname." />
-      <item value="Circuit Breaker" />
-      <item value="Protection" />
-      <item value="Filter" />
-      <item value="cost" />
-      <item value="Balanced" />
     </histories>
     <option name="languageScores">
       <map>
