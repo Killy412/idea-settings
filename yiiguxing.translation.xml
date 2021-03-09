@@ -2,11 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="429" />
-    <option name="newTranslationDialogWidth" value="440" />
+    <option name="newTranslationDialogWidth" value="438" />
     <option name="newTranslationDialogX" value="612" />
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Third serial number" />
+      <item value="Third  serial number" />
+      <item value="Third party serial number" />
+      <item value="第三方流水号" />
+      <item value="流水号" />
       <item value="支出" />
       <item value="e" />
       <item value="总支出" />
@@ -52,11 +57,6 @@
       <item value="A load balancer rule that filters out servers that: &lt;ul&gt; &lt;li&gt; are in circuit breaker tripped state due to consecutive connection or read failures, or&lt;li&gt; &lt;li&gt; have active connections that exceeds a configurable limit (default is Integer.MAX_VALUE).&lt;li&gt; &lt;ul&gt; The property to change this limit is &lt;pre&gt;{@code &lt;clientName&gt;.&lt;nameSpace&gt;.ActiveConnectionsLimit }&lt;pre&gt;" />
       <item value="The most well known and basic load balancing strategy, i.e. Round Robin Rule." />
       <item value="Given that {@link IRule} can be cascaded, this {@link RetryRule} class allows adding a retry logic to an existing Rule." />
-      <item value="Supports preferentially calling the ribbon load balancing rules of the same cluster instance." />
-      <item value="recommend" />
-      <item value="the parameterized type of the destination Map object" />
-      <item value="the parameterized type of the source Map object" />
-      <item value="Rainbowify big files is disabled by default: File with line count &gt; 1000 will not rainbowify be default." />
     </histories>
     <option name="languageScores">
       <map>
