@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Undeclared variable" />
       <item value="the access mode, as described" />
       <item value="This class provides an API compatible with {@code StringBuffer}, but with no guarantee of synchronization." />
       <item value="A mutable sequence of characters" />
@@ -56,7 +57,6 @@
       <item value="Returns {@code true} if the element &lt;i&gt;might&lt;i&gt; have been put in this Bloom filter, {@code false} if this is &lt;i&gt;definitely&lt;i&gt; not the case." />
       <item value="See &quot;Less Hashing, Same Performance: Building a Better Bloom Filter&quot; by Adam Kirsch and Michael Mitzenmacher. The paper argues that this trick doesn't significantly deteriorate the performance of a Bloom filter (yet only needs two 32bit hash functions)." />
       <item value="Signifies that a public API (public class, method or field) is subject to incompatible changes, or even removal, in a future release. An API bearing this annotation is exempt from any compatibility guarantees made by its containing library. Note that the presence of this annotation implies nothing about the quality or performance of the API in question, only the fact that it is not &quot;API-frozen.&quot;" />
-      <item value="funnel the funnel of T's that the constructed {@code BloomFilter} will use" />
     </histories>
     <option name="languageScores">
       <map>
