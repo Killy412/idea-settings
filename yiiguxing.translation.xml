@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="155" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="输出" />
+      <item value="详解&#10;" />
       <item value="Do one round of polling. In addition to checking for new data, this does any needed offset commits (if auto-commit is enabled), and offset resets (if an offset reset policy is defined). @param timeout The maximum time to block in the underlying call to {@link ConsumerNetworkClientpoll(long)}. @return The fetched records (may be empty)" />
       <item value="Fetch data for the topics or partitions specified using one of the subscribeassign APIs. It is an error to not have subscribed to any topics or partitions before polling for data. &lt;p&gt; On each poll, consumer will try to use the last consumed offset as the starting offset and fetch sequentially. The last consumed offset can be manually set through {@link seek(TopicPartition, long)} or automatically set as the last committed offset for the subscribed list of partitions" />
       <item value="Undeclared variable" />
@@ -55,8 +57,6 @@
       <item value="斐" />
       <item value="链表&#10;" />
       <item value="dummy&#10;" />
-      <item value="Distributed implementation of Bloom filter based on Highway 128-bit hash." />
-      <item value="Returns {@code true} if the element &lt;i&gt;might&lt;i&gt; have been put in this Bloom filter, {@code false} if this is &lt;i&gt;definitely&lt;i&gt; not the case." />
     </histories>
     <option name="languageScores">
       <map>
