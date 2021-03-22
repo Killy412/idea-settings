@@ -28,7 +28,7 @@
   <action id="ActivatePToolsToolWindow">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
-  <action id="ActivatePersistenceToolWindow">
+  <action id="ActivateProfilerToolWindow">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="ActivateProgrammerToolsetToolWindow">
