@@ -1,17 +1,17 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="gateway-Dockerfile" type="AUTO_DETECTED" />
+      <mapping pattern="sentinel-Dockerfile" type="AUTO_DETECTED" />
       <mapping pattern="register-Dockerfile" type="AUTO_DETECTED" />
       <mapping pattern="monitor-Dockerfile" type="AUTO_DETECTED" />
-      <mapping pattern="sentinel-Dockerfile" type="AUTO_DETECTED" />
-      <mapping pattern="gateway-Dockerfile" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".name" type="PLAIN_TEXT" />
-      <mapping pattern="bredisbak_for_init" type="PLAIN_TEXT" />
-      <mapping pattern="job-admin-Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="job-admin-Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="bredisbak_for_init" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="lck" type="PLAIN_TEXT" />
