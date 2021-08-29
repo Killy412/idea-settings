@@ -6,7 +6,7 @@
     <driver id="mysql.8">
       <artifact />
       <library>
-        <url>file:///mnt/data/maven-repo/mysql/mysql-connector-java/8.0.22/mysql-connector-java-8.0.22.jar</url>
+        <url>file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.22/mysql-connector-java-8.0.22.jar</url>
       </library>
     </driver>
     <driver id="mysql">
