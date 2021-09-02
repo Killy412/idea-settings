@@ -2,11 +2,17 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="429" />
-    <option name="newTranslationDialogWidth" value="428" />
+    <option name="newTranslationDialogWidth" value="426" />
     <option name="newTranslationDialogX" value="1089" />
     <option name="newTranslationDialogY" value="283" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="jintian   金" />
+      <item value="jin金" />
+      <item value="t金" />
+      <item value="today " />
+      <item value="today 金" />
+      <item value="jintian 金" />
       <item value="Model for result set data backed by a cursor. Only works for forward-only result sets (but still works with updatable concurrency)." />
       <item value="shallow" />
       <item value="拉黑&#10;" />
@@ -51,17 +57,11 @@
       <item value="a" />
       <item value="Third serial number" />
       <item value="Third  serial number" />
-      <item value="Third party serial number" />
-      <item value="第三方流水号" />
-      <item value="流水号" />
-      <item value="支出" />
-      <item value="e" />
-      <item value="总支出" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
-        <entry key="ENGLISH" value="241" />
+        <entry key="CHINESE" value="291" />
+        <entry key="ENGLISH" value="292" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
@@ -69,13 +69,18 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629985101917" />
+    <option name="lastTrimTime" value="1630590599245" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20200306000393838" />
       </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
     </option>
     <option name="translateDocumentation" value="true" />
   </component>
