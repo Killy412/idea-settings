@@ -5,6 +5,6 @@
     <option name="PROXY_PORT" value="1080" />
     <option name="PROXY_EXCEPTIONS" value="192.168.*, localhost, 127.0.0.0/8" />
     <option name="USE_PAC_URL" value="true" />
-    <option name="PAC_URL" value="http://127.0.0.1:8118" />
+    <option name="PAC_URL" value="http://127.0.0.1:1080" />
   </component>
 </application>
