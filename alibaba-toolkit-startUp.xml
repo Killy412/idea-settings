@@ -6,5 +6,6 @@
     <entry projectPath="$USER_HOME$/mqProject" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/openSourceProject" startUpFlag="FIRST" />
     <entry projectPath="/mnt/data/boatProject" startUpFlag="FIRST" />
+    <entry projectPath="/mnt/data/project" startUpFlag="FIRST" />
   </component>
 </application>
