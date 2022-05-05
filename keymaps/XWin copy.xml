@@ -35,6 +35,9 @@
   <action id="Generate.Missing.Members.ES6" />
   <action id="Generate.Missing.Members.TypeScript" />
   <action id="GotoSymbol" />
+  <action id="GsonFormatPlus">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="ImplementMethods" />
   <action id="MethodHierarchy.ImplementMethodAction" />
   <action id="NewClass">
