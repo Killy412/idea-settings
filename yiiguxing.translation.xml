@@ -6,6 +6,11 @@
     <option name="newTranslationDialogX" value="981" />
     <option name="newTranslationDialogY" value="294" />
     <histories>
+      <item value="restart a game" />
+      <item value="this has been provided for you" />
+      <item value="thi " />
+      <item value="provided" />
+      <item value="provi" />
       <item value="jintian   金" />
       <item value="jin金" />
       <item value="t金" />
@@ -51,16 +56,11 @@
       <item value="企业代码" />
       <item value="企业" />
       <item value="平安银行" />
-      <item value="平安" />
-      <item value="账户" />
-      <item value="a" />
-      <item value="Third serial number" />
-      <item value="Third  serial number" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="292" />
+        <entry key="CHINESE" value="294" />
+        <entry key="ENGLISH" value="293" />
         <entry key="IRISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="GREEK" value="1" />
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651760062826" />
+    <option name="lastTrimTime" value="1653203983476" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
