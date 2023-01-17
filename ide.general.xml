@@ -9,7 +9,6 @@
     <option name="showTipsOnStartup" value="false" />
     <option name="supportScreenReaders" value="true" />
     <option name="autoSyncFiles" value="false" />
-    <option name="useDefaultBrowser" value="false" />
   </component>
   <component name="Registry">
     <entry key="search.everywhere.settings" value="true" />
