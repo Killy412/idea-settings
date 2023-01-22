@@ -101,6 +101,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.jetbrains.jax.ws">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.markskelton.one-dark-theme">
           <value>
             <PluginData>
