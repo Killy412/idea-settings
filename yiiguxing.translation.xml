@@ -79,23 +79,26 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673937997519" />
+    <option name="lastTrimTime" value="1675514411056" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
     <option name="targetLanguageSelection" value="LAST" />
+    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="345" />
-    <option name="newTranslationDialogWidth" value="1087" />
-    <option name="newTranslationDialogX" value="511" />
-    <option name="newTranslationDialogY" value="363" />
+    <option name="newTranslationDialogWidth" value="1083" />
+    <option name="newTranslationDialogX" value="800" />
+    <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="factor" />
+      <item value="type" />
       <item value="The next size value at which to resize (capacity * load factor)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
+        <entry key="CHINESE" value="2" />
       </map>
     </option>
   </component>
