@@ -92,6 +92,10 @@
     <option name="newTranslationDialogX" value="800" />
     <option name="newTranslationDialogY" value="462" />
     <histories>
+      <item value="cmpxchg" />
+      <item value="cmpx" />
+      <item value="cmph" />
+      <item value="cmp" />
       <item value="factor" />
       <item value="type" />
       <item value="The next size value at which to resize (capacity * load factor)." />
